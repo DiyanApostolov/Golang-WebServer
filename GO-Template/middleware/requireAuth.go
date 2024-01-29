@@ -2,8 +2,8 @@ package middleware
 
 import (
 	"fmt"
-	"go-jwt/initializers"
-	"go-jwt/models"
+	"go-template/initializers"
+	"go-template/models"
 	"net/http"
 	"os"
 	"time"
