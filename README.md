@@ -10,5 +10,8 @@ GO WebServer - Template
     go get github.com/githubnemo/CompileDaemon  
     ```
     ```sh
+    go install github.com/githubnemo/CompileDaemon  
+    ```
+    ```sh
     compiledaemon --command="./go-template"
     ```
